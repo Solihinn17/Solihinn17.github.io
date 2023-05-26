@@ -6,7 +6,7 @@ subtitle: Research Centre at <a href='https://quantumresearch.id'>Research Centr
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
