@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Centre at <a href='https://quantumresearch.id'>Research Assistant at Research Centre for Quantum Physics</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
