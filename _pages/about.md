@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Centre at <a href='https://quantumresearch.id'>Research Centre for Quantum Physics, National Research and Innovation Agency (BRIN)</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant at <a href='https://quantumresearch.id'>Research Centre for Quantum Physics, National Research and Innovation Agency (BRIN)</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
